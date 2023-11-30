@@ -46,7 +46,7 @@ date: 2023-11-29 12:31:00 +0900
 
 ### 인플레이션
 
-<img src="../assets/img/posts/2023-11-29-korean_all_weather/2023-11-30-00-46-04-image.png" title="" alt="" width="570">
+<img title="" src="../assets/img/posts/2023-11-29-what_is_inflation/a83e61afa01a2a896eb4542a6f49af3c4585e754.png" alt="" width="569">
 
 - 쉽게 얘기하면, "물가가 꾸준히 오르는 것"
 
@@ -116,7 +116,7 @@ date: 2023-11-29 12:31:00 +0900
 
 ### 화폐의 필요성
 
-![](../assets/img/posts/2023-11-29-korean_all_weather/2023-11-30-01-33-46-image.png)
+![](../assets/img/posts/2023-11-29-what_is_inflation/63215b45f84d4bc127963abba40ba0730888e7fd.png)
 
 - 아무래도 이전에 약속했던 것을 보증해줄 수 있는 증표같은 것이 필요했습니다.
 
@@ -205,7 +205,7 @@ date: 2023-11-29 12:31:00 +0900
 
 ### 인플레이션
 
-<img title="" src="../assets/img/posts/2023-11-29-korean_all_weather/2023-11-30-00-46-04-image.png" alt="" width="569">
+<img title="" src="../assets/img/posts/2023-11-29-what_is_inflation/a83e61afa01a2a896eb4542a6f49af3c4585e754.png" alt="" width="569">
 
 - 그 결과가 처음에 얘기했던 인플레이션이에요.
 
