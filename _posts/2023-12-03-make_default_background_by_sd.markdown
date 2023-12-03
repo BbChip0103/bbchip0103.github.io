@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: Stable diffusion으로 게시물 썸네일 만들
+title: Stable diffusion으로 게시물 썸네일 만들기
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -13,7 +13,7 @@ tags: [
     Stable diffusion, 블로그 관리
 ]
 # thumbnail image for post
-img: ":post_pic_bg/post_pic_sample_06.png"
+img: ":post_pic_bg/post_pic_sample_00.png"
 # disable comments on this page
 #comments_disable: true
 
