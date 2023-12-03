@@ -14,7 +14,7 @@ tags: [
     DXY, USD/KRW, Python, Linear regression, Linear algebra, Pearson correlation
 ]
 # thumbnail image for post
-img: ":post_pic1.jpg"
+img: ":post_pic_bg/post_pic_sample_01.png"
 # disable comments on this page
 #comments_disable: true
 

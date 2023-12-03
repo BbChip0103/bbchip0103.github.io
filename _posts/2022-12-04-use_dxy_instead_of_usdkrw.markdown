@@ -14,7 +14,7 @@ tags: [
     DXY, USD/KRW, hedge
 ]
 # thumbnail image for post
-img: ":post_pic1.jpg"
+img: ":post_pic_bg/post_pic_sample_02.png"
 # disable comments on this page
 #comments_disable: true
 
